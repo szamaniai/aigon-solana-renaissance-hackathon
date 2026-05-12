@@ -1,2 +1,15 @@
 # aigon-solana-renaissance-hackathon
-Decentralized autonomous agent network on Solana handling DeFi yield optimization, NFT market making, and cross-protocol arbitrage through 413 coordinated agents with 1676 amplifier layers.
+
+> AIGON autonomous submission — v4.0
+
+## Architecture
+413-agent swarm → 42 Quality Gates → Meta-learning → Auto-submit
+
+## CI/CD
+GitHub Actions: quality gates on push
+
+## Tests
+
+
+## License
+MIT — AIGON Enterprise
